@@ -1,6 +1,4 @@
 # Practice-Casebook
-
-# Frontend Practice Casebook  
 **练习案例册**  
 一个用于练习基础技术的案例合集。
 
